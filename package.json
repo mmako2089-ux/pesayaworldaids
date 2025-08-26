@@ -1,0 +1,23 @@
+{
+  "name": "tigo-bundles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwendwapaxful9/tigoBundles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwendwapaxful9/tigoBundles/issues"
+  },
+  "homepage": "https://github.com/mwendwapaxful9/tigoBundles#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
